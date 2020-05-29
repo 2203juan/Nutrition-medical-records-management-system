@@ -1,0 +1,25 @@
+
+link del aplicativo: http://historiaclinica.onlinewebshop.net/index.php
+--------------------------------------------------------------
+		Credenciales de administrador
+--------------------------------------------------------------
+Cedula: 1234
+Correo: admin@gmail.com
+Clave: 1234
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+		Credenciales Nutricionistas
+--------------------------------------------------------------
+Cédula: 123456789
+Correo: juan@gmail.com
+Clave: 123
+
+Cédula: 1234567
+Correo: katherine@gmail.com
+Clave: 123
+
+Cédula: 12345678
+Correo: jeison@gmail.com
+Clave: 	123
+---------------------------------------------------------------
